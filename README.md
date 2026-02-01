@@ -12,7 +12,7 @@
   <div class="grid">
     <div class="card"><img src=![WhatsApp Image 2026-01-31 at 6 47 19 PM](https://github.com/user-attachments/assets/ae499dc5-d3fe-4e8c-8ccf-2ee7badd16b1)
 "></div>
-    <div class="card"><img src="imagenes/trabajo2.jpg"></div>
+    <img src="imagenes/trabajo2.jpg">
     <div class="card"><img src="imagenes/trabajo3.jpg"></div>
   </div>
 </section>
