@@ -10,7 +10,8 @@
 <section>
   <h2>📸 Trabajos Recientes</h2>
   <div class="grid">
-    <div class="card"><img src="imagenes/trabajo1.jpg"></div>
+    <div class="card"><img src=![WhatsApp Image 2026-01-31 at 6 47 19 PM](https://github.com/user-attachments/assets/ae499dc5-d3fe-4e8c-8ccf-2ee7badd16b1)
+"></div>
     <div class="card"><img src="imagenes/trabajo2.jpg"></div>
     <div class="card"><img src="imagenes/trabajo3.jpg"></div>
   </div>
@@ -23,17 +24,19 @@
       <img src="imagenes/servicio1.jpg">
       <h3>Mantenimiento General</h3>
       <p class="price">Cotización directa</p>
-    </div>
+      
+  </div>
     <div class="card">
       <img src="imagenes/servicio2.jpg">
-      <h3>Frenos & Suspensión</h3>
+      <h3>Frenos & Suspensión
+      Electronica en general para motos fuel inyecetion.  
+      Faros e iluminacion. 
+      Desarme y armado de motores completos.
+      </h3>
       <p class="price">Calidad garantizada</p>
     </div>
-    <div class="card">
-      <img src="imagenes/servicio3.jpg">
-      <h3>Personalización</h3>
-      <p class="price">Estilo urbano</p>
-    </div>
+    
+    
   </div>
 </section>
 
@@ -46,21 +49,17 @@
 </section>
 
 <section style="text-align:center">
-  <h2>📍 Contacto</h2>
+  <h2>📍 Contacto   </h2>
   <p>Umán, Yucatán, México</p>
 
-  <div class="buttons">
-    <a class="whatsapp" href="https://wa.me/5219994844597?text=Hola%20quiero%20información%20sobre%20mi%20moto" target="_blank">
-      WhatsApp
+  <div class="buttons"> 
+  <div>a class="whatsapp" href="https://wa.me/5219994844597?text=Hola%20quiero%20información%20sobre%20mi%20moto" target="_blank">
+      WhatsApp 9994844597
     </a>
 
-    <a class="instagram" href="https://instagram.com/dinomotorsbyzhaby" target="_blank">
-      Instagram
-    </a>
 
-    <a class="maps" href="PEGAR_AQUI_LINK_DE_GOOGLE_MAPS" target="_blank">
-      Ver ubicación
-    </a>
+
+    
   </div>
 </section>
   
